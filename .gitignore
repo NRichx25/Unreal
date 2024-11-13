@@ -1,0 +1,26 @@
+# Binary files
+*.apk
+*.exe
+*.uproject
+*.xcodeproj
+*.sln
+*.suo
+*.user
+*.pdb
+
+# Build folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.obj
+*.map
+*.dll
+*.dylib
+*.so
+
+# Unreal specific folders
+.vs/
+.vscode/
+*.sublime-project
+*.sublime-workspace
